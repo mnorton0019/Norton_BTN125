@@ -7,4 +7,6 @@ Developed over a series of Code Club episode led by Pat Schloss to answer an imp
 question in microbiology and develop comfort using tools to develop reproducible research 
 practices. 
 
+Dependencies:
+mothur v1.48.0
 
